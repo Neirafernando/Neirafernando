@@ -2,8 +2,7 @@
 Hi, I'm Fernando Bueno !
 	<a href="https://github.com/Neirafernando" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	<iframe src="https://giphy.com/embed/l7zabeVIt16efVp6wg" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/phantomwallet-l7zabeVIt16efVp6wg">via GIPHY</a></p>
+  		<img src="https://giphy.com/embed/l7zabeVIt16efVp6wg" width="30">
 	</a>
 </h1>
 <p align="center">
