@@ -8,8 +8,8 @@ Hi, I'm Fernando Bueno !
 </h1>
 <p align="center">
 	<a href="https://github.com/Neirafernando">
-	<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
-
+	<a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">
+            <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343" style="" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
 </p>
 <br/>
 <p align="center">
