@@ -44,8 +44,6 @@ Hi, I'm Fernando Bueno !
 
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="js" src="https://skillicons.dev/icons?i=js"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
