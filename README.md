@@ -66,7 +66,7 @@ Hi, I'm Fernando Bueno !
 
 <p>
 <a href="https://github.com/Bouaskaoun"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
-<a href="https://github.com/Bouaskaoun"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"></a>
+<a href="https://vitejs.dev/"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"></a>
 </p>
 </br>
 
