@@ -57,7 +57,7 @@ Hi, I'm Fernando Bueno !
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://www.python.org/"><img alt="Postgres" src="https://skillicons.dev/icons?i=postgres"></a>
+    <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://skillicons.dev/icons?i=postgres"></a>
      <a href="https://www.mysql.com/"><img alt="Mysql" src="https://skillicons.dev/icons?i=mysql"></a>
 </p>
 
