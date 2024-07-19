@@ -50,7 +50,7 @@ Hi, I'm Fernando Bueno !
 
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=Bootstrap"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
