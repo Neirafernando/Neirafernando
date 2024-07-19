@@ -7,10 +7,7 @@ Hi, I'm Fernando Bueno !
 <p align="center">
 	<a href="https://github.com/Neirafernando">
 		
-	</a>
-	<a href="https://github.com/Neirafernando">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
-	</a>
+
 </p>
 <br/>
 <p align="center">
