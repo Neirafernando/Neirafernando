@@ -65,7 +65,8 @@ Hi, I'm Fernando Bueno !
 ### 💻 Software and Tools
 
 <p>
-<a href="https://github.com/Bouaskaoun"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
+<a href="https://github.com/Bouaskaoun"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
+<a href="https://github.com/Bouaskaoun"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"></a>
 </p>
 </br>
 
