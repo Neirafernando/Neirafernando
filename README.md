@@ -20,9 +20,8 @@ Hi, I'm Fernando Bueno !
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
+💻 I am a self taught Full Stack Developer Student 
+📝 I have a strong interest in Frontend and Backend
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
