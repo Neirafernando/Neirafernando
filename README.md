@@ -50,6 +50,7 @@ Hi, I'm Fernando Bueno !
 <p>
     <a href="https://react.dev/"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
     <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
+    <a href="https://getbootstrap.com/"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"></a>
  
 </p>
 
