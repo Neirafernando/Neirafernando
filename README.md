@@ -43,6 +43,7 @@ Hi, I'm Fernando Bueno !
 
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="js" src="https://skillicons.dev/icons?i=js"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
 
 ### 🧰 Frameworks and Libraries
 
