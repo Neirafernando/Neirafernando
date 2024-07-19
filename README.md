@@ -50,8 +50,8 @@ Hi, I'm Fernando Bueno !
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
+    <a href="https://react.dev/"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
+    <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
  
 </p>
 
@@ -67,10 +67,10 @@ Hi, I'm Fernando Bueno !
 <p>
 <a href="https://github.com/Bouaskaoun"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
 <a href="https://vitejs.dev/"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"></a>
+<a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
 </p>
 </br>
 
 
 
 
-Last Edited on: 19/07/2022
