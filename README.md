@@ -42,7 +42,7 @@ Hi, I'm Fernando Bueno !
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="><img alt="js" src="https://skillicons.dev/icons?i=js"></a>
+    <a href=""><img alt="Js" src="https://skillicons.dev/icons?i=javascrpt"></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
 
 ### 🧰 Frameworks and Libraries
