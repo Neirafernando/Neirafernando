@@ -42,31 +42,29 @@ Hi, I'm Fernando Bueno !
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="js" src="https://skillicons.dev/icons?i=js"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
+    <a href="><img alt="js" src="https://skillicons.dev/icons?i=js"></a>
+    <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
     <a href="https://react.dev/"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
     <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
-    <a href="https://getbootstrap.com/"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"></a>
+    <a href="https://laravel.com/"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"></a>
  
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://getbootstrap.com/"><img alt="Postgres" src="https://skillicons.dev/icons?i=postgres"></a>
-     <a href="https://getbootstrap.com/"><img alt="Mysql" src="https://skillicons.dev/icons?i=mysql"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <a href="[https://getbootstrap.com/](https://www.postgresql.org/)"><img alt="Postgres" src="https://skillicons.dev/icons?i=postgres"></a>
+     <a href="https://www.mysql.com/"><img alt="Mysql" src="https://skillicons.dev/icons?i=mysql"></a>
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-<a href="https://github.com/Bouaskaoun"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
+<a href="https://www.notion.so/es-es/product"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
 <a href="https://vitejs.dev/"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"></a>
 <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
 </p>
