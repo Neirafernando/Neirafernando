@@ -33,6 +33,7 @@ Hi, I'm Fernando Bueno !
 ## 🤝 Connect with me
 <p align="center">
 	<a href="mailto:fernando19bueno.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="href="mailto:fernando19bueno.com"><img alt="Gmail" src="https://skillicons.dev/icons?i=gmail"></a>
 	<a href="https://www.linkedin.com/in/fernando-bueno-75a531247/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
