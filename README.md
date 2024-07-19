@@ -94,15 +94,7 @@ Hi, I'm Bouaskaoun Mohammed!
 
 <br/>
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
-	</a>
-	<br/>
-</p>
-<br/>
+
 <!--
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
