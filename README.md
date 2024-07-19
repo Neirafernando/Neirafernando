@@ -49,7 +49,7 @@ Hi, I'm Fernando Bueno !
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="React" src="">https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg</a>
+    <a href="https://github.com/Bouaskaoun"><img alt="React" src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
