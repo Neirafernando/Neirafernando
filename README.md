@@ -41,6 +41,8 @@ Hi, I'm Fernando Bueno !
 <p>
     <a href=""><img alt="Js" src="https://skillicons.dev/icons?i=js"></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
+    <a href=""><img alt="php" src="https://skillicons.dev/icons?i=php"></a>
+
 
 ### 🧰 Frameworks and Libraries
 
