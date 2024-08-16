@@ -24,7 +24,6 @@ Hi, I'm Fernando Bueno !
 📝I have a great interest in the topics of Frontend, Backend and cybersecurity
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
