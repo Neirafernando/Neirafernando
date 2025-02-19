@@ -42,7 +42,7 @@
 
 ### 👨‍💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
   <a href="https://www.php.net/"><img alt="PHP" src="https://skillicons.dev/icons?i=php"></a>
   <a href=""><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
@@ -50,7 +50,7 @@
 
 ### 🧰 Frameworks and Libraries
 
-<p align="center">
+<p align="left">
   <a href="https://react.dev/"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
   <a href="https://laravel.com/"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"></a>
@@ -65,7 +65,7 @@
 
 ### 💻 Software and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://www.notion.so/es-es/product"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
   <a href="https://vitejs.dev/"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"></a>
   <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
