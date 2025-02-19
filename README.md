@@ -6,10 +6,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Neirafernando">
-    <img src="https://git.io/typing-svg">
-     href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E4BF7&width=435&lines=full+stack+developer+student+and+;cybersecurity+student" alt="Typing SVG" 
-  </a>
+ <a href="https://github.com/Neirafernando">
+  <img src="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E4BF7&width=435&lines=full+stack+developer+student+and+cybersecurity+student" alt="Typing SVG">
+</a>
+
 </p>
 
 <hr>
