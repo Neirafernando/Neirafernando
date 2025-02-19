@@ -46,6 +46,8 @@
   <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
   <a href="https://www.php.net/"><img alt="PHP" src="https://skillicons.dev/icons?i=php"></a>
   <a href=""><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
+  <a href=""><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
+
 </p>
 
 ### 🧰 Frameworks and Libraries
