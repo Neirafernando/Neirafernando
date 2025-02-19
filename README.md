@@ -11,7 +11,7 @@ Hi, I'm Fernando Bueno !
 <br/>
 <p align="center">
 	<a href="https://github.com/Neirafernando">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E4BF7&width=435&lines=fullstack+web+student+and+cybersecurity+enthusiast" alt="Typing SVG" /></a>>
 	</a>
 </p>
 
