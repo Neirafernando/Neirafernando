@@ -58,7 +58,7 @@
 
 ### 🗄️ Databases and Cloud Hosting
 
-<p align="center">
+<p align="left">
   <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://skillicons.dev/icons?i=postgres"></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
 </p>
