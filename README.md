@@ -18,7 +18,7 @@
 <pre>
 💻 I am a self taught Full Stack Developer Student 
 📝 I have a great interest in the topics of Frontend, Backend and cybersecurity 
-🌟 Main languages: Python, JavaScript 
+🌟 Main languages: JavaScript 
 🚩 Interested in Full Stack Application development 
 </pre>
 
