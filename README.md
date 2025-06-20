@@ -55,9 +55,11 @@
 <p align="left">
   <a href="https://react.dev/"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
   <a href="https://nextjs.org/"><img alt="Nextjs" src="https://skillicons.dev/icons?i=nextjs"></a>
+  <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
   <a href="https://laravel.com/"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"></a>
-  <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
+  <a href="https://mui.com/material-ui/"><img alt="Materialui" src="https://skillicons.dev/icons?i=materialui"></a>
+  
   
 </p>
 
