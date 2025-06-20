@@ -77,4 +77,6 @@
   <a href="https://vitejs.dev/"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"></a>
   <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
   <a href="https://www.debian.org/index.es.html"><img alt="Debian" src="https://skillicons.dev/icons?i=debian"></a>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"></a>
+
 </p>
