@@ -76,4 +76,5 @@
   <a href="https://www.notion.so/es-es/product"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
   <a href="https://vitejs.dev/"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"></a>
   <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
+  <a href="https://www.debian.org/index.es.html"><img alt="Debian" src="https://skillicons.dev/icons?i=debian"></a>
 </p>
