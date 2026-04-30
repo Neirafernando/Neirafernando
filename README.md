@@ -61,11 +61,11 @@ Trabajo resolviendo problemas reales y construyendo sistemas que optimizan proce
 
 ---
 
-## 🚧 Enfoque actual
+## 🚧 Actualmente
 
-- Automatización de flujos (escaneo → procesamiento → salida)
-- Desarrollo de sistemas con Laravel + Filament
-- Creación de soluciones prácticas para entornos reales
+- Desarrollo de sistemas internos (Laravel + Filament)
+- Automatización de procesos operativos
+- Gestión y mejora de infraestructura TI
 
 ---
 
