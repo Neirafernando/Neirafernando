@@ -43,24 +43,35 @@
 </p>
 
 ### 🧠 Infrastructure & Systems
+
 <p>
   <img src="https://skillicons.dev/icons?i=linux,debian,docker">
 </p>
 
-- Proxmox VE
-- pfSense
-- TCP/IP Networking
-- CCTV (Dahua systems)
-- Virtualization & monitoring
+<p>
+  <img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP%20Networking-00599C?style=for-the-badge&logo=internetcomputer&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCTV%20Dahua-1f2937?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization%20%26%20Monitoring-4B5563?style=for-the-badge&logo=proxmox&logoColor=white" />
+</p>
 
 ---
 
 ## 🚧 Current Focus
 
-- 📦 Building systems with Laravel + Filament
-- ⚙️ Automating workflows (scan → process → output)
-- 💡 Creating SaaS products for real businesses
-- 📈 Learning how to combine tech + business (ads, landing pages, sales)
+- 📦 Building systems with Laravel + Filament  
+- ⚙️ Automating workflows (scan → process → output)  
+- 💡 Creating SaaS products for real businesses  
+- 📈 Learning how to combine tech + business (ads, landing pages, sales)  
+
+---
+
+## 📌 Featured Projects
+
+- 🧾 Document Processing System (Scan → Auto Process → Output)  
+- 🏨 Reservation System (Laravel + Filament)  
+- 🌐 Landing Pages + Automation (Client acquisition)  
 
 ---
 
