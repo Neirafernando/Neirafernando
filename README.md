@@ -1,82 +1,79 @@
 <h1 align="center"> 
-  Hi, I'm Fernando Bueno! 
-  <a href="https://github.com/Neirafernando" target="_self">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  </a>
+  Hi, I'm Fernando Bueno 👋
 </h1>
 
 <p align="center">
- <a href="https://github.com/Neirafernando">
-  <img src="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E4BF7&width=435&lines=full+stack+developer+student+and+cybersecurity+student" alt="Typing SVG">
-</a>
-
+  <a href="https://github.com/Neirafernando">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E4BF7&center=true&vCenter=true&width=500&lines=IT+Support+%26+Infrastructure+Technician;Linux+%2F+Networking+%2F+Automation;Building+Real+World+Systems;Laravel+%2B+Filament+Developer" />
+  </a>
 </p>
 
 <hr>
 
-<pre>
-💻 I am a self taught Full Stack Developer Student 
-📝 I have a great interest in the topics of Frontend, Backend and cybersecurity 
-🌟 Main languages: JavaScript 
-🚩 Interested in Full Stack Application development 
-</pre>
+## 🚀 About Me
 
-<hr>
+💻 IT Support & Infrastructure Technician (Industrial Environment)  
+🌐 Experience with Networking, CCTV Systems, and Linux Administration  
+⚙️ Building real-world systems (automation, document processing, SaaS ideas)  
+📦 Working with Proxmox, pfSense, Debian & virtualization  
+🚀 Currently learning Laravel + Filament to build scalable systems  
+
+---
+
+## 🧠 What I Actually Do
+
+- 🛠️ Troubleshoot real production environments (networks, printers, cameras)
+- 🌐 Manage IP networks, VLANs and connectivity issues
+- 🐧 Work daily with Linux (Debian, CLI tools, scripting)
+- 🧩 Build internal tools and systems to automate processes
+- 🚀 Developing SaaS-style projects (document processing, reservation systems)
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,js,bash">
+</p>
+
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,tailwind">
+</p>
+
+### 🧠 Infrastructure & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker">
+</p>
+
+- Proxmox VE
+- pfSense
+- TCP/IP Networking
+- CCTV (Dahua systems)
+- Virtualization & monitoring
+
+---
+
+## 🚧 Current Focus
+
+- 📦 Building systems with Laravel + Filament
+- ⚙️ Automating workflows (scan → process → output)
+- 💡 Creating SaaS products for real businesses
+- 📈 Learning how to combine tech + business (ads, landing pages, sales)
+
+---
 
 ## 🤝 Connect with me
 
 <p align="center">
   <a href="mailto:fernando19bueno.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/fernando-bueno-75a531247/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/Bouaskaoun">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/Neirafernando">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</p>
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
-
-<p align="left">
-  <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python"></a>
-  <a href="https://www.php.net/"><img alt="PHP" src="https://skillicons.dev/icons?i=php"></a>
-  <a href=""><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
-  
-
-</p>
-
-### 🧰 Frameworks and Libraries
-
-<p align="left">
-  <a href="https://react.dev/"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
-  <a href="https://nextjs.org/"><img alt="Nextjs" src="https://skillicons.dev/icons?i=nextjs"></a>
-  <a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
-  <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
-  <a href="https://laravel.com/"><img alt="Laravel" src="https://skillicons.dev/icons?i=laravel"></a>
-  <a href="https://mui.com/material-ui/"><img alt="Materialui" src="https://skillicons.dev/icons?i=materialui"></a>
-  
-  
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p align="left">
-  <a href="https://www.postgresql.org/"><img alt="Postgres" src="https://skillicons.dev/icons?i=postgres"></a>
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
-</p>
-
-### 💻 Software and Tools
-
-<p align="left">
-  <a href="https://www.notion.so/es-es/product"><img alt="Notion" src="https://skillicons.dev/icons?i=notion"></a>
-  <a href="https://vitejs.dev/"><img alt="Vite" src="https://skillicons.dev/icons?i=vite"></a>
-  <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
-  <a href="https://www.debian.org/index.es.html"><img alt="Debian" src="https://skillicons.dev/icons?i=debian"></a>
-  <a href="https://www.docker.com/"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"></a>
-
 </p>
